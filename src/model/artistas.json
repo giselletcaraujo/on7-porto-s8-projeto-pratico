@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "artista": "Adriana Calcanhoto",
+        "idade": "54 anos",
+        "genero": "MPB"
+    },
+    {
+        "id": 2,
+        "artista": "Alice Caymmi",
+        "idade": "30 anos",
+        "genero": "MPB"
+    },
+    {
+        "id": 3,
+        "artista": "Duda Beat",
+        "idade": "32 anos",
+        "genero": "POP"
+    },
+    {
+        "id": 4,
+        "artista": "Elza Soares",
+        "idade": "90 anos",
+        "genero": "sambalanço"
+    }
+
+]

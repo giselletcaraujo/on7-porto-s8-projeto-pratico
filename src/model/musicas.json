@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Me adora",
+        "artista": "Pitty",
+        "duracao": "4:34",
+        "genero": "rock"
+    },
+    {
+        "id": 2,
+        "titulo": "Hoje eu sei",
+        "artista": "Vanessa da Mata",
+        "duracao": "3:47",
+        "genero": "mpb"
+    },
+    {
+        "id": 3,
+        "titulo": "Canto de Ossanha",
+        "artista": "Mariene de Castro",
+        "duracao": "3:27",
+        "genero": "samba"
+    },
+    {
+        "id": 4,
+        "titulo": "Ânsia",
+        "artista": "Eliza Mell",
+        "duracao": "3:39",
+        "genero": "brega"
+    },
+    {
+        "id": 5,
+        "titulo": "Amado",
+        "artista": "Vanessa da Mata",
+        "duracao": "3:47",
+        "genero": "mpb"
+    }
+    
+]

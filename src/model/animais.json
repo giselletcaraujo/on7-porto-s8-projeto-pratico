@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "animal": "cachorro",
+        "tempoVida": "até 13 anos",
+        "horasSono": "14 horas"
+    },
+    {
+        "id": 2,
+        "animal": "gato",
+        "tempoVida": "até 16 anos",
+        "horasSono": "16 horas"
+    },
+    {
+        "id": 3,
+        "animal": "cavalo",
+        "tempoVida": "até 30 anos",
+        "horasSono": "3 horas"
+    },
+    {
+        "id": 4,
+        "animal": "cobra",
+        "tempoVida": "até 9 anos",
+        "horasSono": "18 horas"
+    },
+    {
+        "id": 5,
+        "animal": "macaco",
+        "tempoVida": "até 20 anos",
+        "horasSono": "17 horas"
+    },
+    {
+        "id": 6,
+        "animal": "tigre",
+        "tempoVida": "até 15 anos",
+        "horasSono": "15 horas"
+    },
+    {
+        "id": 7,
+        "animal": "leão",
+        "tempoVida": "até 14 anos",
+        "horasSono": "13 horas"
+    },
+    {
+        "id": 8,
+        "animal": "tubarão",
+        "tempoVida": "até 30 anos",
+        "horasSono": "20 minutos"
+    },
+    {
+        "id": 9,
+        "animal": "girafa",
+        "tempoVida": "até 20 anos",
+        "horasSono": "2 horas"
+    },
+    {
+        "id": 10,
+        "animal": "ovelha",
+        "tempoVida": "até 12 anos",
+        "horasSono": "3 horas"
+    }
+]
